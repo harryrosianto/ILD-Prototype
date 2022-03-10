@@ -16,7 +16,7 @@ Function dependencies used in this project:
 - azure-storage-blob==2.1.0
 
 ### Classes
-At this time, only 5 classes will be picked for the Illegal Logging Detection
+At this time, only 5 classes will be picked for the Illegal Logging Detection using Raspberry Pi
 `suara_gergaji suara_tembakan angin suara_alam orang_berbicara`
 
 ### Audio Processing
