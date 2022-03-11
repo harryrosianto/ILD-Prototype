@@ -31,6 +31,12 @@ Data generation involves producing raw PCM wavform data containing a desired num
 * [Keras](https://keras.io/) - Deep Learning Framework
 * [TensorFlow](http://tensorflow.org/) - Machine Learning Library
 
+### Hardware
+- Raspberry Pi 4 Model B / Raspberry Pi 3 Model B
+- Microphone wired portable
+- Solar Charge Controller
+- Solar Cell (20W)
+
 ### Results
 After the training the model for 75 epochs, the following confusion matrix was generated for assessing classification performance.
 
