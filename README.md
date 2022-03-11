@@ -1,5 +1,5 @@
 # ILD-Prototype
-Illegal Logging Detection using Raspberry Pi 4 Model B with MFCC and CNN method
+a Final Project for Illegal Logging Detection using Raspberry Pi 4 Model B with MFCC and CNN method
 
 ![](scientific_poster.jpg)
 
