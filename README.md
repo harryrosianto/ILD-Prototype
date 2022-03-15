@@ -32,9 +32,9 @@ Data generation involves producing raw PCM wavform data containing a desired num
 * [TensorFlow](http://tensorflow.org/) - Machine Learning Library
 
 ### Hardware
-- Raspberry Pi 4 Model B / Raspberry Pi 3 Model B
+- Raspberry Pi 4 Model B (8GB) / Raspberry Pi 3 Model B (1GB)
 - Microphone wired portable
-- Solar Charge Controller
+- Solar Charge Controller (with Arduino)
 - Solar Cell (20W)
 
 ### Results
