@@ -7,13 +7,13 @@ a Final Project for Illegal Logging Detection using Raspberry Pi 4 Model B with 
 
 Function dependencies used in this project:
 
-- Keras 2.4.3
-- matplotlib 3.2.2
-- numpy 1.19.5
-- pandas 1.1.5
+- Keras 2.3.1
+- numpy 1.17.5
+- pandas 1.3.5
+- scipy 1.7.3
 - tensorflow 2.3.0
-- librosa 0.8.0
-- azure-storage-blob==2.1.0
+- librosa 0.7.2
+- azure-storage-blob 2.1.0
 
 ### Classes
 At this time, only 5 classes will be picked for the Illegal Logging Detection using Raspberry Pi
