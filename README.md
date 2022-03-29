@@ -38,6 +38,9 @@ Data generation involves producing raw PCM wavform data containing a desired num
 
 - Channel Merged
 
+
+![](wavmono.png)
+
 ### Built With
 
 * [Keras](https://keras.io/) - Deep Learning Framework
