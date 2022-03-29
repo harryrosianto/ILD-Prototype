@@ -27,8 +27,8 @@ Data generation involves producing raw PCM wavform data containing a desired num
 | 22050      | 22050 | 4000 |
 
 | Original Bit Depth     | Librosa Bit Depth  |
-| ------------- |:-------------:| -----:|--------:|
-| 22050      | 22050 | 4000 | 4000 |
+| --- | --- |
+| 22050 | 22050 |
 
 
 ### Built With
