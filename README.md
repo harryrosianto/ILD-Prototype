@@ -26,10 +26,16 @@ Data generation involves producing raw PCM wavform data containing a desired num
 | ------------- |:-------------:| -----:|
 | 22050      | 22050 | 4000 |
 
+| Original Bit Depth     | Librosa Bit Depth  |
+| ------------- |:-------------:| -----:|--------:|
+| 22050      | 22050 | 4000 | 4000 |
+
+
 ### Built With
 
 * [Keras](https://keras.io/) - Deep Learning Framework
 * [TensorFlow](http://tensorflow.org/) - Machine Learning Library
+* [Librosa](http://librosa.org/) - Python Audio Package
 
 ### Hardware
 - Raspberry Pi 4 Model B (8GB) / Raspberry Pi 3 Model B (1GB)
