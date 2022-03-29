@@ -31,6 +31,11 @@ Data generation involves producing raw PCM wavform data containing a desired num
 | min: 4 | min: -0.5 |
 | max: 32 | max: 0.75 |
 
+- Original Channel
+
+
+- Channel Merged
+
 ### Built With
 
 * [Keras](https://keras.io/) - Deep Learning Framework
