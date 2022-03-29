@@ -32,6 +32,8 @@ Data generation involves producing raw PCM wavform data containing a desired num
 | max: 32 | max: 0.75 |
 
 - Original Channel
+
+
 ![](wavestereo.png)
 
 - Channel Merged
