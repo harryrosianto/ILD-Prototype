@@ -58,6 +58,6 @@ Data generation involves producing raw PCM wavform data containing a desired num
 - Solar Cell (20W)
 
 ### Results
-After the training the model for 75 epochs, the following confusion matrix was generated for assessing classification performance.
-
+After the training the model for 75 epochs, the following confusion matrix and graph was generated for assessing classification performance.
+![](accgraph.jpg)
 ![](matrix.jpg)
