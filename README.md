@@ -73,4 +73,4 @@ After the training the model for 75 epochs, the following confusion matrix and g
 
 - Confusion Matrix
 
-![](matrix.jpg)
+![](matrix.jpg) 
