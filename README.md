@@ -64,6 +64,6 @@ After the training the model for 75 epochs, the following confusion matrix and g
 - Accuration Graph
 <img src="accgraph.jpg" width="400">
 
-
 - Confusion Matrix
+
 ![](matrix.jpg)
