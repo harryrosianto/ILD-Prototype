@@ -63,5 +63,7 @@ After the training the model for 75 epochs, the following confusion matrix and g
 
 ![](accgraph.jpg){ width=50% }
 
+<img src="accgraph.jpg" width="200" height="500">
+
 
 ![](matrix.jpg)
