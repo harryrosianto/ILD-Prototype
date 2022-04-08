@@ -2,7 +2,7 @@
 a Final Project for Illegal Logging Detection using Raspberry Pi 4 Model B with MFCC and CNN method. This project aims to solve the problem of forestry in Indonesia, which has recorded 1.47 million hectares of deforestation due to illegal logging. Therefore it is necessary to carry out monitoring around the forest to prevent deforestation from expanding.
 
 
-###Scientific Poster
+### Scientific Poster
 ![](scientific_poster.jpg)
 
 ### Prerequisites
