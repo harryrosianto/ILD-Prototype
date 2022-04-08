@@ -10,12 +10,16 @@ A Final Project for Illegal Logging Detection using Raspberry Pi 4 Model B with 
 Function dependencies used in this project:
 
 - Keras 2.3.1
+- Keras-Preprocessing 1.1.2
 - numpy 1.17.5
 - pandas 1.3.5
 - scipy 1.7.3
 - tensorflow 2.3.0
 - librosa 0.7.2
 - azure-storage-blob 2.1.0
+- numba 0.48.0
+- lvmlite 0.31.0
+- h5py 2.10.0
 
 ### Classes
 At this time, only 5 classes will be picked for the Illegal Logging Detection using Raspberry Pi
@@ -58,6 +62,7 @@ Data generation involves producing raw PCM wavform data containing a desired num
 - Microphone wired portable
 - Solar Charge Controller (with Arduino)
 - Solar Cell (20W)
+- Battery 7AH
 
 ### Results
 After the training the model for 75 epochs, the following confusion matrix and graph was generated for assessing classification performance.
