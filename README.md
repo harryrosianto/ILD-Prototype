@@ -59,5 +59,9 @@ Data generation involves producing raw PCM wavform data containing a desired num
 
 ### Results
 After the training the model for 75 epochs, the following confusion matrix and graph was generated for assessing classification performance.
+
+
 ![](accgraph.jpg)
+
+
 ![](matrix.jpg)
