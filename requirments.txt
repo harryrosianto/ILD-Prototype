@@ -1,4 +1,4 @@
-absl-py==1.0.0
+absl-py == 1.0.0
 argon2-cffi==21.3.0
 argon2-cffi-bindings==21.2.0
 astunparse==1.6.3
